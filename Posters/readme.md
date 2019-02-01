@@ -1,0 +1,1 @@
+The 'draft_smpc.svg' file is the general use template I created for convinience, and is suitable for use in posters. It currently has SVNIT logo and a placeholder date, and is in 16:10 ratio with xhdpi resolution.
